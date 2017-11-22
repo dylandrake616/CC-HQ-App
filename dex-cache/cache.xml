@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.android\build-cache\52627df4627941b58c928d872b13d787d7a18115\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="088fc08780e035f2f8558577b6e13e9255c41526">
+        <dex dex="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\pre-dexed\debug\classes_a8c7a12a55b94c731646a4d2a00276841230a780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.android\build-cache\01cd3c992e54bf8f7b942313ac42e85bee64094c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\pre-dexed\debug\classes_b6b0884e43a0dbdeb7498df0bf16a01c2a8e7d52.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bf7fd8e4fb2e8cb6755e157537d70decfae455ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_ffc56b3f8a3cb46c370ac5cb988fd980fc434eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_ffc56b3f8a3cb46c370ac5cb988fd980fc434eca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c18f919c5107822b259df1932d2aef7a3d05bc08">
+        <dex dex="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_186d2f13c6ad93a435080fe56f3024c4a916f72f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.android\build-cache\52627df4627941b58c928d872b13d787d7a18115\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="088fc08780e035f2f8558577b6e13e9255c41526">
+        <dex dex="C:\Users\Home\Videos\webview-master\webview-master\CodeCabin_\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8c7a12a55b94c731646a4d2a00276841230a780\classes.dex" />
+    </item>
+
+</items>
